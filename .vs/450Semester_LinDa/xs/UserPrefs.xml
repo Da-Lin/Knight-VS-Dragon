@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{99412A76-36A9-0FB1-5EC2-C7E2E0249641}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="169" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="111" Column="80" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="20" Column="38" />
+      <File FileName="Assets/Scripts/Shop.cs" Line="102" Column="39" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="17" Column="38" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="20" Column="24" />
+      <File FileName="Assets/Scripts/Fireball.cs" Line="66" Column="66" />
+      <File FileName="Assets/Scripts/Dragon.cs" Line="141" Column="10" />
+      <File FileName="Assets/Scripts/DragonFireball.cs" Line="68" Column="66" />
+      <File FileName="Assets/Scripts/MenuController.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="89" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
